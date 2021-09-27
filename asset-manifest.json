@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.433f0e97.chunk.css",
+    "main.js": "/memory-game/static/js/main.a1f0ba1c.chunk.js",
+    "main.js.map": "/memory-game/static/js/main.a1f0ba1c.chunk.js.map",
+    "runtime-main.js": "/memory-game/static/js/runtime-main.bb0067c4.js",
+    "runtime-main.js.map": "/memory-game/static/js/runtime-main.bb0067c4.js.map",
+    "static/js/2.71fef0ce.chunk.js": "/memory-game/static/js/2.71fef0ce.chunk.js",
+    "static/js/2.71fef0ce.chunk.js.map": "/memory-game/static/js/2.71fef0ce.chunk.js.map",
+    "index.html": "/memory-game/index.html",
+    "static/css/main.433f0e97.chunk.css.map": "/memory-game/static/css/main.433f0e97.chunk.css.map",
+    "static/js/2.71fef0ce.chunk.js.LICENSE.txt": "/memory-game/static/js/2.71fef0ce.chunk.js.LICENSE.txt",
+    "static/media/avocado.3593d201.png": "/memory-game/static/media/avocado.3593d201.png",
+    "static/media/App.css": "/memory-game/static/media/background.12326ea7.jpg",
+    "static/media/banana.5dec33eb.png": "/memory-game/static/media/banana.5dec33eb.png",
+    "static/media/coconut.b21a1cff.png": "/memory-game/static/media/coconut.b21a1cff.png",
+    "static/media/Header.css": "/memory-game/static/media/fruit.0ffd762b.png",
+    "static/media/guava.4b4ebaf8.png": "/memory-game/static/media/guava.4b4ebaf8.png",
+    "static/media/limon.8cd53063.png": "/memory-game/static/media/limon.8cd53063.png",
+    "static/media/mango.28cffd4d.png": "/memory-game/static/media/mango.28cffd4d.png",
+    "static/media/papaya.7d61b5ee.png": "/memory-game/static/media/papaya.7d61b5ee.png",
+    "static/media/passionfruit.b4131e8a.png": "/memory-game/static/media/passionfruit.b4131e8a.png",
+    "static/media/pineapple.18a02ca0.png": "/memory-game/static/media/pineapple.18a02ca0.png",
+    "static/media/pitaya.88172b4e.png": "/memory-game/static/media/pitaya.88172b4e.png",
+    "static/media/pomegranate.43a15374.png": "/memory-game/static/media/pomegranate.43a15374.png",
+    "static/media/starfruit.a8722bbf.png": "/memory-game/static/media/starfruit.a8722bbf.png",
+    "static/media/tamarillo.19cd4a96.png": "/memory-game/static/media/tamarillo.19cd4a96.png",
+    "static/media/toucan.0cb83fb7.png": "/memory-game/static/media/toucan.0cb83fb7.png",
+    "static/media/uchuva.2e7600be.png": "/memory-game/static/media/uchuva.2e7600be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb0067c4.js",
+    "static/js/2.71fef0ce.chunk.js",
+    "static/css/main.433f0e97.chunk.css",
+    "static/js/main.a1f0ba1c.chunk.js"
+  ]
+}
